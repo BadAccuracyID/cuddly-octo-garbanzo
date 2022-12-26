@@ -1,0 +1,11 @@
+rootProject.name = 'JavagniniarTerP'
+
+include(':Template')
+include(':Tests')
+
+include(':Project')
+
+include(':H1')
+include(':H2')
+include(':H3')
+include(':H4')

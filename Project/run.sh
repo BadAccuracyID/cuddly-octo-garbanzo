@@ -1,0 +1,1 @@
+java -jar build/libs/JavaProject-T142.jar

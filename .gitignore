@@ -1,0 +1,17 @@
+.idea
+.vscode
+*/build/classes/
+*/build/generated/
+*/build/tmp/
+build/classes/
+build/generated/
+build/tmp/
+*.lock
+*.bin
+*.zip
+caseFIles
+.iml
+*.probe
+*.properties
+*/build
+/.idea

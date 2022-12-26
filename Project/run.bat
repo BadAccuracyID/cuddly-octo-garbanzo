@@ -1,0 +1,1 @@
+java -jar %~dp0\build\libs\JavaProject-T142.jar
